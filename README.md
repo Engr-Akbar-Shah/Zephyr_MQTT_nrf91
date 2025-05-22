@@ -1,4 +1,4 @@
-# DEV_HUB_NRF91_MQTT_CLIENT
+# NRF91_MQTT_CLIENT
 
 ## Project Overview
 
